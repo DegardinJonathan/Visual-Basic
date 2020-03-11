@@ -16,3 +16,9 @@ l'evenement rencontre.
 
 Ce code permet aussi de stocker les differentes fiches recoltes dans un tableau recapitulatif ainsi que dans un dossier cree par le code qui 
 conservera les .txt des differentes declaration.
+
+﻿Gestion Badges
+==============================
+**Automatisation de mailing en vue de la gestion des badges**
+
+Ce code permet via les quelques informations nécessaires de générer un mail qui ferra le nécessaire pour demander les droits à assigner au badges en question.
