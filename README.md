@@ -22,3 +22,7 @@ conservera les .txt des differentes declaration.
 **Automatisation de mailing en vue de la gestion des badges**
 
 Ce code permet via les quelques informations nécessaires de générer un mail qui ferra le nécessaire pour demander les droits à assigner au badges en question.
+
+﻿Save
+==============================
+**Automatisation d'information des stages au sein de l'institut de formation**
