@@ -26,3 +26,5 @@ Ce code permet via les quelques informations nécessaires de générer un mail q
 ﻿Save
 ==============================
 **Automatisation d'information des stages au sein de l'institut de formation**
+
+Ce code permet via la réception d'un mail comportant l'ensemble des informations de stage de ne conserver que les stagiaires au sein de l'hopital et ainsi demander les droits au eleves en question.
